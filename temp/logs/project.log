@@ -1,0 +1,24 @@
+2023-11-21 18:16:02 - error: (node:1180) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(Use `CocosCreator --trace-warnings ...` to show where the warning was created)
+2023-11-21 18:16:02 - log: Load engine in C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine
+2023-11-21 18:16:02 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,light-probe,marionette,particle-2d,physics-2d-builtin,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,websocket,webview,xr)
+2023-11-21 18:16:02 - log: Register native engine in C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\native
+2023-11-21 18:16:18 - info: [Scene] [PHYSICS]: using builtin.
+2023-11-21 18:16:18 - log: [Scene] Cocos Creator v3.8.0
+2023-11-21 18:16:18 - info: [Scene] Forward render pipeline initialized.
+2023-11-21 18:16:28 - log: Use preview template {link(C:\project\work\cocos\clashmonsters\preview-template\index.ejs)}
+2023-11-21 18:16:29 - warn: [Assets] The ParticleAsset used by component "cc.ParticleSystem2D" in prefab "ChestModalWindow" is missing. Detailed information:
+Node path: "ChestModalWindow/Animated/Particle2D"
+Asset url: "db://assets/Media/Prefabs/ModalWindows/Chest/ChestModalWindow"
+Missing uuid: "915be298-1e14-40a2-aaaf-5f19c174fdf6"
+[Assets] The ParticleAsset used by component "cc.ParticleSystem2D" in prefab "ChestModalWindow" is missing. Detailed information:
+Node path: "ChestModalWindow/Animated/Particle2D"
+Asset url: "db://assets/Media/Prefabs/ModalWindows/Chest/ChestModalWindow"
+Missing uuid: "915be298-1e14-40a2-aaaf-5f19c174fdf6"
+  
+at Object.encode (C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.warn (C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.warn (C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1530)  
+at MissingObjectReporter.doReport (C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\builtin\engine\dist\editor-extends\missing-reporter\missing-object-reporter.ccc:1:1535)

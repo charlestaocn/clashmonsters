@@ -1,0 +1,73 @@
+{
+  "__version__": "1.3.6",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "startScene": "1a3bccb5-bbb7-4058-846c-ed41b52415b0",
+    "buildPath": "project://build",
+    "outputName": "android-001",
+    "mainBundleCompressionType": "merge_dep",
+    "name": "clashofmonsters",
+    "platform": "android",
+    "md5Cache": true,
+    "sourceMaps": true,
+    "experimentalEraseModules": false
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1700560974013": {
+        "type": "build",
+        "id": "1700560974013",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2023-11-21 18:03:50 build success in 56491 ms!",
+        "options": {
+          "name": "clashofmonsters",
+          "server": "",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": true,
+          "skipCompressTexture": false,
+          "sourceMaps": true,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "1a3bccb5-bbb7-4058-846c-ed41b52415b0",
+          "outputName": "android",
+          "taskName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/Game.scene",
+              "uuid": "cffa5b19-2043-4cef-8221-1a10ab7a2c1f"
+            },
+            {
+              "url": "db://assets/Scenes/Menu.scene",
+              "uuid": "1a3bccb5-bbb7-4058-846c-ed41b52415b0"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.6",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/android2023-11-21 18-02.log"
+        },
+        "time": "2023-11-21 18:02:54",
+        "dirty": false
+      }
+    }
+  }
+}

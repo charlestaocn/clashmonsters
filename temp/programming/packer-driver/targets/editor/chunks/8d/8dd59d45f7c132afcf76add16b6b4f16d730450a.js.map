@@ -1,0 +1,1 @@
+{"version":3,"sources":["file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Data/TranslationData.ts"],"names":["TranslationData"],"mappings":";;;iBAAaA,e;;;;;;;;;;;;;iCAAAA,e,GAAN,MAAMA,eAAN,CAAsB,E","sourcesContent":["export class TranslationData {\r\n    [key: string]: string;\r\n}\r\n"]}

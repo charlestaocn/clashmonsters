@@ -1,0 +1,749 @@
+2023-11-21 18:01:19-log: Cannot access game frame or container.
+2023-11-21 18:01:19-debug: asset-db:require-engine-code (1519ms)
+2023-11-21 18:01:19-log: Cocos Creator v3.8.0
+2023-11-21 18:01:19-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:21.29MB, end 87.83MB, increase: 66.54MB
+2023-11-21 18:01:20-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:90.43MB, end 93.89MB, increase: 3.46MB
+2023-11-21 18:01:20-debug: [Assets Memory track]: asset-db-plugin-enable: project start:90.60MB, end 93.89MB, increase: 3.29MB
+2023-11-21 18:01:20-debug: [Assets Memory track]: asset-db:worker-init: initPlugin start:87.84MB, end 93.90MB, increase: 6.06MB
+2023-11-21 18:01:20-debug: [Assets Memory track]: asset-db-plugin-register: programming start:88.58MB, end 90.38MB, increase: 1.81MB
+2023-11-21 18:01:20-debug: asset-db:worker-init: initPlugin (237ms)
+2023-11-21 18:01:20-debug: [Assets Memory track]: asset-db:worker-init start:21.28MB, end 93.95MB, increase: 72.67MB
+2023-11-21 18:01:20-debug: Run asset db hook programming:beforePreStart ...
+2023-11-21 18:01:20-debug: Run asset db hook programming:beforePreStart success!
+2023-11-21 18:01:20-debug: Run asset db hook engine-extends:beforePreStart success!
+2023-11-21 18:01:20-debug: Run asset db hook engine-extends:beforePreStart ...
+2023-11-21 18:01:20-debug: asset-db:worker-init (2710ms)
+2023-11-21 18:01:20-debug: asset-db-hook-programming-beforePreStart (567ms)
+2023-11-21 18:01:20-debug: asset-db-hook-engine-extends-beforePreStart (566ms)
+2023-11-21 18:01:20-debug: Preimport db internal success
+2023-11-21 18:01:21-debug: Preimport db assets success
+2023-11-21 18:01:21-debug: Run asset db hook programming:afterPreStart ...
+2023-11-21 18:01:22-debug: run package(builder) handler(enable) start
+2023-11-21 18:01:26-debug: run package(builder) handler(enable) success!
+2023-11-21 18:01:26-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:108.73MB, end 291.17MB, increase: 182.44MB
+2023-11-21 18:01:26-debug: run package(shortcuts) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(shortcuts) handler(enable) start
+2023-11-21 18:01:26-debug: run package(animation-graph) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(animation-graph) handler(enable) start
+2023-11-21 18:01:26-debug: run package(about) handler(enable) start
+2023-11-21 18:01:26-debug: run package(assets) handler(enable) start
+2023-11-21 18:01:26-debug: run package(about) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(console) handler(enable) start
+2023-11-21 18:01:26-debug: run package(console) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(crash-reporter) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(assets) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(crash-reporter) handler(enable) start
+2023-11-21 18:01:26-debug: run package(extension) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(extension) handler(enable) start
+2023-11-21 18:01:26-debug: run package(hierarchy) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(inspector) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(inspector) handler(enable) start
+2023-11-21 18:01:26-debug: run package(light-probe) handler(enable) start
+2023-11-21 18:01:26-debug: run package(light-probe) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(lightmap) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(hierarchy) handler(enable) start
+2023-11-21 18:01:26-debug: run package(node-library) handler(enable) start
+2023-11-21 18:01:26-debug: run package(node-library) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(lightmap) handler(enable) start
+2023-11-21 18:01:26-debug: run package(package-asset) handler(enable) start
+2023-11-21 18:01:26-debug: run package(package-asset) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(reference-image) handler(enable) start
+2023-11-21 18:01:26-debug: run package(process) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(reference-image) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(reflection-probe) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(process) handler(enable) start
+2023-11-21 18:01:26-debug: run package(reflection-probe) handler(enable) start
+2023-11-21 18:01:26-debug: run package(engine-extends) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(adsense-h5g-plugin) handler(enable) start
+2023-11-21 18:01:26-debug: run package(engine-extends) handler(enable) start
+2023-11-21 18:01:26-debug: run package(alipay-mini-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(android) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(alipay-mini-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(bytedance-mini-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(bytedance-mini-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(certificate) handler(enable) start
+2023-11-21 18:01:26-debug: run package(certificate) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(channel-upload-tools) handler(enable) start
+2023-11-21 18:01:26-debug: run package(android) handler(enable) start
+2023-11-21 18:01:26-debug: run package(channel-upload-tools) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(huawei-agc) handler(enable) start
+2023-11-21 18:01:26-debug: run package(fb-instant-games) handler(enable) start
+2023-11-21 18:01:26-debug: run package(huawei-quick-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(fb-instant-games) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(huawei-quick-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(huawei-agc) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(linux) handler(enable) start
+2023-11-21 18:01:26-debug: run package(ios) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(linux) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(mac) handler(enable) start
+2023-11-21 18:01:26-debug: run package(mac) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(native) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(ohos) handler(enable) start
+2023-11-21 18:01:26-debug: run package(native) handler(enable) start
+2023-11-21 18:01:26-debug: run package(ohos) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(ios) handler(enable) start
+2023-11-21 18:01:26-debug: run package(openharmony) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(oppo-mini-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(oppo-mini-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(runtime-dev-tools) handler(enable) start
+2023-11-21 18:01:26-debug: run package(runtime-dev-tools) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(openharmony) handler(enable) start
+2023-11-21 18:01:26-debug: run package(taobao-creative-app) handler(enable) start
+2023-11-21 18:01:26-debug: run package(taobao-creative-app) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(vivo-mini-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(taobao-mini-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(vivo-mini-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(web-desktop) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(taobao-mini-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(web-mobile) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(web-mobile) handler(enable) start
+2023-11-21 18:01:26-debug: run package(wechatgame) handler(enable) start
+2023-11-21 18:01:26-debug: run package(web-desktop) handler(enable) start
+2023-11-21 18:01:26-debug: run package(wechatgame) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(wechatprogram) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(wechatprogram) handler(enable) start
+2023-11-21 18:01:26-debug: run package(windows) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(xiaomi-quick-game) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(xiaomi-quick-game) handler(enable) start
+2023-11-21 18:01:26-debug: run package(windows) handler(enable) start
+2023-11-21 18:01:26-debug: run package(cocos-service) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(im-plugin) handler(enable) start
+2023-11-21 18:01:26-debug: run package(cocos-service) handler(enable) start
+2023-11-21 18:01:26-debug: run package(prefab380fix) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(prefab380fix) handler(enable) start
+2023-11-21 18:01:26-debug: run package(placeholder) handler(enable) start
+2023-11-21 18:01:26-debug: run package(im-plugin) handler(enable) success!
+2023-11-21 18:01:26-debug: run package(placeholder) handler(enable) success!
+2023-11-21 18:01:27-debug: Run asset db hook programming:afterPreStart success!
+2023-11-21 18:01:27-debug: Run asset db hook engine-extends:afterPreStart ...
+2023-11-21 18:01:27-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-11-21 18:01:27-debug: [Assets Memory track]: asset-db:worker-init: preStart start:93.96MB, end 291.38MB, increase: 197.43MB
+2023-11-21 18:01:27-debug: Run asset db hook engine-extends:afterPreStart success!
+2023-11-21 18:01:27-debug: Start up the 'internal' database...
+2023-11-21 18:01:27-debug: asset-db-hook-programming-afterPreStart (5648ms)
+2023-11-21 18:01:27-debug: asset-db:worker-effect-data-processing (32ms)
+2023-11-21 18:01:27-debug: asset-db-hook-engine-extends-afterPreStart (32ms)
+2023-11-21 18:01:27-debug: start asset-db with asset: 459
+2023-11-21 18:01:27-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:106.32MB, end 295.92MB, increase: 189.60MB
+2023-11-21 18:01:27-debug: Start up the 'assets' database...
+2023-11-21 18:01:29-debug: asset-db:worker-startup-database[internal] (8559ms)
+2023-11-21 18:01:29-debug: start asset-db with asset: 604
+2023-11-21 18:01:29-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:108.75MB, end 295.38MB, increase: 186.63MB
+2023-11-21 18:01:29-debug: [Assets Memory track]: asset-db:worker-init: startup start:291.39MB, end 295.39MB, increase: 4.00MB
+2023-11-21 18:01:29-debug: asset-db:worker-startup-database[assets] (8544ms)
+2023-11-21 18:01:29-debug: asset-db:start-database (9161ms)
+2023-11-21 18:01:29-debug: asset-db:ready (14414ms)
+2023-11-21 18:01:29-debug: init worker message success
+2023-11-21 18:01:29-debug: [Build Memory track]: builder:worker-init start:295.52MB, end 303.07MB, increase: 7.55MB
+2023-11-21 18:01:29-debug: builder:worker-init (462ms)
+2023-11-21 18:01:31-debug: programming:execute-script (10ms)
+2023-11-21 18:01:59-debug: refresh db internal success
+2023-11-21 18:01:59-debug: refresh db assets success
+2023-11-21 18:01:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-11-21 18:01:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-11-21 18:01:59-debug: asset-db:refresh-all-database (134ms)
+2023-11-21 18:01:59-debug: asset-db:worker-effect-data-processing (1ms)
+2023-11-21 18:01:59-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-11-21 18:02:52-debug: refresh db internal success
+2023-11-21 18:02:52-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-11-21 18:02:52-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-11-21 18:02:52-debug: refresh db assets success
+2023-11-21 18:02:52-debug: asset-db:refresh-all-database (122ms)
+2023-11-21 18:02:52-debug: asset-db:worker-effect-data-processing (1ms)
+2023-11-21 18:02:52-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+2023-11-21 18:02:54-debug: Start record console... {file(C:\project\work\cocos\clashmonsters\temp\builder\log\android2023-11-21 18-02.log)}
+2023-11-21 18:02:54-debug: =================================== build Task (android) Start ================================
+2023-11-21 18:02:54-debug: Start build task, options:{"name":"clashofmonsters","server":"","platform":"android","buildPath":"project://build","debug":false,"md5Cache":true,"skipCompressTexture":false,"sourceMaps":true,"polyfills":{"asyncFunctions":false},"experimentalEraseModules":false,"startSceneAssetBundle":false,"bundleConfigs":[],"useBuiltinServer":false,"mainBundleIsRemote":false,"mainBundleCompressionType":"merge_dep","useSplashScreen":true,"bundleCommonChunk":false,"packAutoAtlas":true,"startScene":"1a3bccb5-bbb7-4058-846c-ed41b52415b0","outputName":"android","taskName":"android","scenes":[{"url":"db://assets/Scenes/Game.scene","uuid":"cffa5b19-2043-4cef-8221-1a10ab7a2c1f"},{"url":"db://assets/Scenes/Menu.scene","uuid":"1a3bccb5-bbb7-4058-846c-ed41b52415b0"}],"packages":{"engine":{"cleanupImageCache":"inheritProjectSetting","__version__":"1.0.7"},"android":{"packageName":"com.cfg.cth","orientation":{"portrait":true,"upsideDown":false,"landscapeRight":false,"landscapeLeft":false},"apiLevel":33,"appABIs":["arm64-v8a","armeabi-v7a"],"useDebugKeystore":false,"keystorePath":"C:\\project\\work\\cocos\\clashmonsters\\gameks.jks","keystorePassword":"taozenan","keystoreAlias":"key0","keystoreAliasPassword":"taozenan","appBundle":false,"androidInstant":false,"inputSDK":false,"remoteUrl":"","sdkPath":"","ndkPath":"","renderBackEnd":{"vulkan":false,"gles3":true,"gles2":true},"swappy":false,"__version__":"1.0.1"},"cocos-service":{"configID":"e32858","services":[],"__version__":"3.0.7"},"native":{"encrypted":true,"xxteaKey":"0ceMjVPL1BwpMKmv","compressZip":true,"JobSystem":"none","__version__":"1.0.2"}},"__version__":"1.3.6","buildMode":"normal","logDest":"project://temp/builder/log/android2023-11-21 18-02.log"}
+2023-11-21 18:02:54-debug: Build with Cocos Creator 3.8.0
+2023-11-21 18:02:54-debug: cocos-service:(onBeforeBuild) start...0%
+2023-11-21 18:02:54-debug: // ---- build task cocos-service：onBeforeBuild ----
+2023-11-21 18:02:54-debug: // ---- build task cocos-service：onBeforeBuild ---- (152ms)
+2023-11-21 18:02:54-debug: cocos-service:(onBeforeBuild) in 152 ms ✓2%
+2023-11-21 18:02:54-debug: scene:(onBeforeBuild) start...2%
+2023-11-21 18:02:54-debug: // ---- build task scene：onBeforeBuild ----
+2023-11-21 18:02:54-debug: // ---- build task scene：onBeforeBuild ---- (19ms)
+2023-11-21 18:02:54-debug: scene:(onBeforeBuild) in 19 ms ✓4%
+2023-11-21 18:02:54-debug: Start lock asset db...4%
+2023-11-21 18:02:54-log: Asset DB is paused with build!
+2023-11-21 18:02:54-debug: Query all assets info in project
+2023-11-21 18:02:54-debug: init custom config: keepNodeUuid: false, useCache: true
+2023-11-21 18:02:54-debug:   Number of all scenes: 2
+2023-11-21 18:02:54-debug:   Number of all scripts: 102
+2023-11-21 18:02:54-debug:   Number of other assets: 1194
+2023-11-21 18:02:54-debug: native:(onAfterInit) start...4%
+2023-11-21 18:02:54-debug: // ---- build task native：onAfterInit ----
+2023-11-21 18:02:57-debug: Native engine root:C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\native
+2023-11-21 18:02:57-debug: // ---- build task native：onAfterInit ---- (3458ms)
+2023-11-21 18:02:57-debug: native:(onAfterInit) in 3458 ms ✓7%
+2023-11-21 18:02:57-debug: android:(onAfterInit) start...7%
+2023-11-21 18:02:57-debug: // ---- build task android：onAfterInit ----
+2023-11-21 18:02:57-debug: // ---- build task android：onAfterInit ---- (32ms)
+2023-11-21 18:02:57-debug: android:(onAfterInit) in 32 ms ✓9%
+2023-11-21 18:02:57-debug: cocos-service:(onAfterInit) start...9%
+2023-11-21 18:02:57-debug: // ---- build task cocos-service：onAfterInit ----
+2023-11-21 18:02:57-debug: // ---- build task cocos-service：onAfterInit ---- (130ms)
+2023-11-21 18:02:57-debug: cocos-service:(onAfterInit) in 130 ms ✓11%
+2023-11-21 18:02:57-debug: engine:(onAfterInit) start...11%
+2023-11-21 18:02:57-debug: // ---- build task engine：onAfterInit ----
+2023-11-21 18:02:57-debug: // ---- build task engine：onAfterInit ---- (13ms)
+2023-11-21 18:02:57-debug: engine:(onAfterInit) in 13 ms ✓13%
+2023-11-21 18:02:57-debug: Init all bundles start...13%
+2023-11-21 18:02:57-debug: Num of bundles: 2...13%
+2023-11-21 18:02:57-debug: reload all scripts.
+2023-11-21 18:02:57-debug: Incremental keys: 
+2023-11-21 18:02:58-debug: Set detail map pack:///resolution-detail-map.json: {}
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ce\cee638a986ad8fae09398db255647defcaa6612a.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-11-21 18:02:58-debug: Invalidating 'pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js'
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/ce/cee638a986ad8fae09398db255647defcaa6612a.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\82\825cdedc7a82dc310cb8b0e11ac5cf0fd1d6e9fe.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\82\825cdedc7a82dc310cb8b0e11ac5cf0fd1d6e9fe.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/82/825cdedc7a82dc310cb8b0e11ac5cf0fd1d6e9fe.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\9d\9d8f3f2ed6f7e72dfa864d08519ac39b972999a4.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\9d\9d8f3f2ed6f7e72dfa864d08519ac39b972999a4.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register DebugViewRuntimeControl
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/9d/9d8f3f2ed6f7e72dfa864d08519ac39b972999a4.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ac\ac2d573f57869beda2387f8c64387cec7abc1b9b.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ac\ac2d573f57869beda2387f8c64387cec7abc1b9b.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\be\be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\7f\7fe2a24b1f91503901f75dee24439866c3673ffe.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\7f\7fe2a24b1f91503901f75dee24439866c3673ffe.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8d\8d20faed535f51361211fdfd66004c958637027d.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8d\8d20faed535f51361211fdfd66004c958637027d.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\33\33e359d8bda49133bcdbb056bd6fee94e1e3a650.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\33\33e359d8bda49133bcdbb056bd6fee94e1e3a650.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\38\38e466632ed933ce8b3fc2919ca1295a8a7c3690.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\38\38e466632ed933ce8b3fc2919ca1295a8a7c3690.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e0\e08e1ea298c9db8a8b2033b9a5605dba1158ed3d.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e0\e08e1ea298c9db8a8b2033b9a5605dba1158ed3d.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8c\8cd86542ba37771cc075ff28c844fcbf64ad9077.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8c\8cd86542ba37771cc075ff28c844fcbf64ad9077.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\72\72787f744a82b3415641a885ce8cc8e6b37b51d9.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\72\72787f744a82b3415641a885ce8cc8e6b37b51d9.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\db\dbfbf49f8cd2847edbf74bbf2323bea80a6c36ed.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\db\dbfbf49f8cd2847edbf74bbf2323bea80a6c36ed.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\00\007878a311b4b32fcb3c9856158e5753c622b080.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\00\007878a311b4b32fcb3c9856158e5753c622b080.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\10\10ccab496725cf93e7e4aa522c4ec597ef7953c9.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\10\10ccab496725cf93e7e4aa522c4ec597ef7953c9.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\31\31ebc51dafeb9d128426424d932f00f34244e872.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\31\31ebc51dafeb9d128426424d932f00f34244e872.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/be/be027f973d8ff1c6fe3dcfebbc993118a793ec1b.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register AudioAssets
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/72/72787f744a82b3415641a885ce8cc8e6b37b51d9.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register MetaUpgradeIcons
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/31/31ebc51dafeb9d128426424d932f00f34244e872.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/00/007878a311b4b32fcb3c9856158e5753c622b080.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register UpgradeIcons
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/8c/8cd86542ba37771cc075ff28c844fcbf64ad9077.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register GameAssets
+2023-11-21 18:02:58-debug: [[Executor]] Register AudioPlayer
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/33/33e359d8bda49133bcdbb056bd6fee94e1e3a650.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/db/dbfbf49f8cd2847edbf74bbf2323bea80a6c36ed.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/7f/7fe2a24b1f91503901f75dee24439866c3673ffe.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/8d/8d20faed535f51361211fdfd66004c958637027d.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register ModalWindowManager
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/38/38e466632ed933ce8b3fc2919ca1295a8a7c3690.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/10/10ccab496725cf93e7e4aa522c4ec597ef7953c9.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register OpenCloseAnimator
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e0/e08e1ea298c9db8a8b2033b9a5605dba1158ed3d.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register AppRoot
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/ac/ac2d573f57869beda2387f8c64387cec7abc1b9b.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\98\98934ba70f22af98af4da79588d0c31e1fb42688.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\98\98934ba70f22af98af4da79588d0c31e1fb42688.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/98/98934ba70f22af98af4da79588d0c31e1fb42688.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\fb\fb50d99f480741470c5a73411111230450d282ec.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\fb\fb50d99f480741470c5a73411111230450d282ec.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e7\e72ec3702f4bae8eaeb9e1a081510aad4f280a71.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e7\e72ec3702f4bae8eaeb9e1a081510aad4f280a71.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e7/e72ec3702f4bae8eaeb9e1a081510aad4f280a71.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register GameAudioAdapter
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/fb/fb50d99f480741470c5a73411111230450d282ec.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\df\df505cf3ea1d61ca0273bfb4329262d985814514.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\df\df505cf3ea1d61ca0273bfb4329262d985814514.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ef\ef20af33e8fdd6e4014903009f202f7fd51a6ae2.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ef\ef20af33e8fdd6e4014903009f202f7fd51a6ae2.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/ef/ef20af33e8fdd6e4014903009f202f7fd51a6ae2.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/df/df505cf3ea1d61ca0273bfb4329262d985814514.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Background
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\31\312bd5279de038f430a20fe1b9c348be13d6033c.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\31\312bd5279de038f430a20fe1b9c348be13d6033c.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\10\10cbe095fe2921e5786f9afdebc601683221dd8a.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\10\10cbe095fe2921e5786f9afdebc601683221dd8a.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\01\01f749b4b0c56961421a0f1489b3a29f5ef55f5d.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\01\01f749b4b0c56961421a0f1489b3a29f5ef55f5d.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/01/01f749b4b0c56961421a0f1489b3a29f5ef55f5d.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Item
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/10/10cbe095fe2921e5786f9afdebc601683221dd8a.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/31/312bd5279de038f430a20fe1b9c348be13d6033c.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e9\e9d36551a05cb482b0db2860eba57f786bdd8b1e.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e9\e9d36551a05cb482b0db2860eba57f786bdd8b1e.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\d3\d3254e53048b84034cb170d11238ac930b877a98.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\d3\d3254e53048b84034cb170d11238ac930b877a98.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\53\53954131bfd29394de922536ba96b1674164d3a8.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\53\53954131bfd29394de922536ba96b1674164d3a8.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\a8\a80a84a2194b93b992c7177a478e23477d2093e5.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\a8\a80a84a2194b93b992c7177a478e23477d2093e5.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\77\77444ae2a22526536a1b4a260f4a441da26bf223.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\77\77444ae2a22526536a1b4a260f4a441da26bf223.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\40\402fd52aeaff5c6ba364e2dfb9ad15cd9011033b.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\40\402fd52aeaff5c6ba364e2dfb9ad15cd9011033b.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/a8/a80a84a2194b93b992c7177a478e23477d2093e5.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/d3/d3254e53048b84034cb170d11238ac930b877a98.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Projectile
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/53/53954131bfd29394de922536ba96b1674164d3a8.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/40/402fd52aeaff5c6ba364e2dfb9ad15cd9011033b.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Enemy
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/77/77444ae2a22526536a1b4a260f4a441da26bf223.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e9/e9d36551a05cb482b0db2860eba57f786bdd8b1e.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\11\11c7fd0e1a1513189ee9f0d4b298f31282ec6f5f.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\11\11c7fd0e1a1513189ee9f0d4b298f31282ec6f5f.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/11/11c7fd0e1a1513189ee9f0d4b298f31282ec6f5f.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\57\57704794c345eb574c0e562f5d60c728d7e79336.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\57\57704794c345eb574c0e562f5d60c728d7e79336.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/57/57704794c345eb574c0e562f5d60c728d7e79336.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\d7\d771867937968e44b47344fff31026fbdf802de6.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\d7\d771867937968e44b47344fff31026fbdf802de6.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/d7/d771867937968e44b47344fff31026fbdf802de6.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8d\8dd59d45f7c132afcf76add16b6b4f16d730450a.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8d\8dd59d45f7c132afcf76add16b6b4f16d730450a.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/8d/8dd59d45f7c132afcf76add16b6b4f16d730450a.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\71\714f14f53be5805d445d861e94ab38201f50ee14.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\71\714f14f53be5805d445d861e94ab38201f50ee14.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b6\b61a4bba2e5b7cb6698b4587e62cc1cd8c8eb735.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b6\b61a4bba2e5b7cb6698b4587e62cc1cd8c8eb735.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f7\f777761a6a48c7a7a83f4426686b8e1c79f6b028.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f7\f777761a6a48c7a7a83f4426686b8e1c79f6b028.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ae\ae4012a467809650964169d69fcc54ec8b23d4b6.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\ae\ae4012a467809650964169d69fcc54ec8b23d4b6.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\fc\fc3ee3459539e1057da3d6c2185f166dd59b354d.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\fc\fc3ee3459539e1057da3d6c2185f166dd59b354d.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e4\e4266da0c9b68765c1b050fdac2858e126b841e3.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e4\e4266da0c9b68765c1b050fdac2858e126b841e3.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c9\c90c9d300c288757600ea5924ff97c389025fedb.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c9\c90c9d300c288757600ea5924ff97c389025fedb.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\3d\3d756a8e78163011468bb71427358992c15c45ed.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\3d\3d756a8e78163011468bb71427358992c15c45ed.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\df\df3b2e4257276ad1e9e5c754b804b8967c466ce5.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\df\df3b2e4257276ad1e9e5c754b804b8967c466ce5.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f7\f725153782c2ff4e858635f363cd651b43deefac.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f7\f725153782c2ff4e858635f363cd651b43deefac.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\09\09b6cf92d452cceb235aac5e7195b543fe5960df.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\09\09b6cf92d452cceb235aac5e7195b543fe5960df.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\69\697c1d07d006c3c756293332356107ec520cd633.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\69\697c1d07d006c3c756293332356107ec520cd633.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\20\20f75c6ade296a9dda600a4fd2fd8b5e845e79bb.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\20\20f75c6ade296a9dda600a4fd2fd8b5e845e79bb.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\61\616307c1c0c90c5ba9ac77d153ddb56f8be6e10e.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\61\616307c1c0c90c5ba9ac77d153ddb56f8be6e10e.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f4\f4525867f31a15e10d1334f9e8f0c1df2d5cb670.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f4\f4525867f31a15e10d1334f9e8f0c1df2d5cb670.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\af\af1b8846eaf25eb046f186e2875e9a4c42921a3e.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\af\af1b8846eaf25eb046f186e2875e9a4c42921a3e.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\58\5807478827f9b1fc413944a6da80180951112312.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\58\5807478827f9b1fc413944a6da80180951112312.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\1b\1b70bec9993be688c44c3d698c282138223804c0.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\1b\1b70bec9993be688c44c3d698c282138223804c0.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8c\8c3c77750452464e437f54d1a285dcee99ca5a02.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8c\8c3c77750452464e437f54d1a285dcee99ca5a02.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\30\30a19bd51819f3fcef14cfea90e0a920f9051659.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\30\30a19bd51819f3fcef14cfea90e0a920f9051659.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\cb\cb39529385be5d59501398b7a5b3c4dc546de62f.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\cb\cb39529385be5d59501398b7a5b3c4dc546de62f.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\af\afdd700aa7f23861e9e384ed139ef1bdaf818406.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\af\afdd700aa7f23861e9e384ed139ef1bdaf818406.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\84\845c2b0f792f9cc59a8f1def111bfc90ca99c7b3.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\84\845c2b0f792f9cc59a8f1def111bfc90ca99c7b3.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f9\f909ff196fbd848cf8146426171297d9fd74f8b8.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f9\f909ff196fbd848cf8146426171297d9fd74f8b8.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e1\e1ecd6cf927ec6a801b0655d6773a7e905a02156.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e1\e1ecd6cf927ec6a801b0655d6773a7e905a02156.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\55\559a54c996fbb8f116c022b4d85b3fa775e953fe.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\55\559a54c996fbb8f116c022b4d85b3fa775e953fe.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\fe\fecd4a8480ec2034a4cccc95e2b52697293371a7.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\fe\fecd4a8480ec2034a4cccc95e2b52697293371a7.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\89\893767a8c98ac888b13c34a838c497c89488608d.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\89\893767a8c98ac888b13c34a838c497c89488608d.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c3\c3c6e07960704c38b1388ac9dbf1af7d0d0d62c3.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c3\c3c6e07960704c38b1388ac9dbf1af7d0d0d62c3.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\5c\5c77cb3e6f663c483f611eabcb248f1c69700dba.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\5c\5c77cb3e6f663c483f611eabcb248f1c69700dba.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\5c\5cde2e259a0aba1fb00942ddc4b16dc10a00bf2f.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\5c\5cde2e259a0aba1fb00942ddc4b16dc10a00bf2f.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e1\e167ca5351f53fb9701e753cf9f660cd6c617604.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e1\e167ca5351f53fb9701e753cf9f660cd6c617604.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\23\2359c4cf62d0d3a094a7dac40ed9b43b3fabf8ab.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\23\2359c4cf62d0d3a094a7dac40ed9b43b3fabf8ab.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\9e\9ef15de00bf51c74ab5baa7bd22e701c348deb86.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\9e\9ef15de00bf51c74ab5baa7bd22e701c348deb86.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\96\963805f39c751757687bde41793cd7e153804fc4.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\96\963805f39c751757687bde41793cd7e153804fc4.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f4\f4ecf3ab26bc9f46b1ce2591f48ed8ec4098ee4e.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\f4\f4ecf3ab26bc9f46b1ce2591f48ed8ec4098ee4e.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\77\77d1293f18e102fb756afb4e21de43d70bb2add0.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\77\77d1293f18e102fb756afb4e21de43d70bb2add0.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\85\85301a3cc5253e32adb030dbfccb7d814b6f9876.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\85\85301a3cc5253e32adb030dbfccb7d814b6f9876.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\5b\5bf6645b4f08d93aa40589a8ffc813c5fb62b4d1.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\5b\5bf6645b4f08d93aa40589a8ffc813c5fb62b4d1.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c3\c3ec18e1ca684b1e618d6c9cfaa6af6348696004.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c3\c3ec18e1ca684b1e618d6c9cfaa6af6348696004.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b9\b9cc9d9d1e846de7fe6a19d5be3f5d3ca389af11.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b9\b9cc9d9d1e846de7fe6a19d5be3f5d3ca389af11.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b9\b9e27a1cb56652f1937cd447a07d43b804bd2dc8.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b9\b9e27a1cb56652f1937cd447a07d43b804bd2dc8.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\08\08c636584d7c76ffc0218578c5a72837c0418212.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\08\08c636584d7c76ffc0218578c5a72837c0418212.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\2b\2be7db2775bb7a9f08efbfb4bd85ac18ec515483.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\2b\2be7db2775bb7a9f08efbfb4bd85ac18ec515483.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/f7/f777761a6a48c7a7a83f4426686b8e1c79f6b028.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/b6/b61a4bba2e5b7cb6698b4587e62cc1cd8c8eb735.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register VirtualJoystic
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/fc/fc3ee3459539e1057da3d6c2185f166dd59b354d.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/ae/ae4012a467809650964169d69fcc54ec8b23d4b6.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/30/30a19bd51819f3fcef14cfea90e0a920f9051659.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register ItemSpawner
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/f9/f909ff196fbd848cf8146426171297d9fd74f8b8.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register PickupEffectManager
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/cb/cb39529385be5d59501398b7a5b3c4dc546de62f.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e1/e1ecd6cf927ec6a801b0655d6773a7e905a02156.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register ItemManager
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/c9/c90c9d300c288757600ea5924ff97c389025fedb.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/af/afdd700aa7f23861e9e384ed139ef1bdaf818406.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e4/e4266da0c9b68765c1b050fdac2858e126b841e3.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/3d/3d756a8e78163011468bb71427358992c15c45ed.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register UIButton
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/84/845c2b0f792f9cc59a8f1def111bfc90ca99c7b3.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register GameUI
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/df/df3b2e4257276ad1e9e5c754b804b8967c466ce5.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register EnemyDeathEffectSpawner
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/f7/f725153782c2ff4e858635f363cd651b43deefac.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/fe/fecd4a8480ec2034a4cccc95e2b52697293371a7.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/b9/b9cc9d9d1e846de7fe6a19d5be3f5d3ca389af11.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/c3/c3c6e07960704c38b1388ac9dbf1af7d0d0d62c3.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/c3/c3ec18e1ca684b1e618d6c9cfaa6af6348696004.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e1/e167ca5351f53fb9701e753cf9f660cd6c617604.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/55/559a54c996fbb8f116c022b4d85b3fa775e953fe.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/5b/5bf6645b4f08d93aa40589a8ffc813c5fb62b4d1.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/b9/b9e27a1cb56652f1937cd447a07d43b804bd2dc8.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/5c/5cde2e259a0aba1fb00942ddc4b16dc10a00bf2f.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register EnemySpawner
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/89/893767a8c98ac888b13c34a838c497c89488608d.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/5c/5c77cb3e6f663c483f611eabcb248f1c69700dba.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register EnemyManager
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/96/963805f39c751757687bde41793cd7e153804fc4.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/09/09b6cf92d452cceb235aac5e7195b543fe5960df.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/20/20f75c6ade296a9dda600a4fd2fd8b5e845e79bb.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Magnet
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/69/697c1d07d006c3c756293332356107ec520cd633.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/9e/9ef15de00bf51c74ab5baa7bd22e701c348deb86.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/f4/f4ecf3ab26bc9f46b1ce2591f48ed8ec4098ee4e.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register PlayerHealthUI
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/08/08c636584d7c76ffc0218578c5a72837c0418212.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register PlayerUI
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/77/77d1293f18e102fb756afb4e21de43d70bb2add0.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register UpgradableCollider
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/2b/2be7db2775bb7a9f08efbfb4bd85ac18ec515483.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Weapon
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/85/85301a3cc5253e32adb030dbfccb7d814b6f9876.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Player
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/61/616307c1c0c90c5ba9ac77d153ddb56f8be6e10e.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/23/2359c4cf62d0d3a094a7dac40ed9b43b3fabf8ab.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/8c/8c3c77750452464e437f54d1a285dcee99ca5a02.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/1b/1b70bec9993be688c44c3d698c282138223804c0.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register ProjectileLauncher
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/af/af1b8846eaf25eb046f186e2875e9a4c42921a3e.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/f4/f4525867f31a15e10d1334f9e8f0c1df2d5cb670.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/58/5807478827f9b1fc413944a6da80180951112312.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Game
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/71/714f14f53be5805d445d861e94ab38201f50ee14.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\3f\3f39a2b1dc7979e7ca099b56c7ce6c0e27b4d682.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\3f\3f39a2b1dc7979e7ca099b56c7ce6c0e27b4d682.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/3f/3f39a2b1dc7979e7ca099b56c7ce6c0e27b4d682.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\31\310485a890b95458a8131e9bbfb51afa192a5804.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\31\310485a890b95458a8131e9bbfb51afa192a5804.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register PickupEffect
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/31/310485a890b95458a8131e9bbfb51afa192a5804.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c5\c5abb415aa8cd24ae2b60c38275a2eee71e18966.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c5\c5abb415aa8cd24ae2b60c38275a2eee71e18966.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register XP
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/c5/c5abb415aa8cd24ae2b60c38275a2eee71e18966.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\4c\4c007bd17e81a309b4e80c4cf8873607a544b23a.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\4c\4c007bd17e81a309b4e80c4cf8873607a544b23a.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\73\73fe97d47af53f9c66fc9c8f2a8430f6bbc77b38.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\73\73fe97d47af53f9c66fc9c8f2a8430f6bbc77b38.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\01\01d26d86e2510d45083c9aaed8a1de4ccac71df2.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\01\01d26d86e2510d45083c9aaed8a1de4ccac71df2.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/01/01d26d86e2510d45083c9aaed8a1de4ccac71df2.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register LevelUpSkill
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/73/73fe97d47af53f9c66fc9c8f2a8430f6bbc77b38.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register ChestModalWindow
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/4c/4c007bd17e81a309b4e80c4cf8873607a544b23a.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e4\e4146c7fc86bdd7c1541e5ab66ba364990dfe355.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\e4\e4146c7fc86bdd7c1541e5ab66ba364990dfe355.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\2c\2c4c3e423c7f5a57cd7b0eb96afd1e555e2b867f.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\2c\2c4c3e423c7f5a57cd7b0eb96afd1e555e2b867f.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b5\b5db3f66364ae837ff72e38b92202fc994b0ee5e.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b5\b5db3f66364ae837ff72e38b92202fc994b0ee5e.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\bc\bcf2325926e70ae06900e866a3e7838e9e82b1aa.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\bc\bcf2325926e70ae06900e866a3e7838e9e82b1aa.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register LevelUpModalWindow
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/b5/b5db3f66364ae837ff72e38b92202fc994b0ee5e.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/bc/bcf2325926e70ae06900e866a3e7838e9e82b1aa.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/2c/2c4c3e423c7f5a57cd7b0eb96afd1e555e2b867f.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register PauseModalWindow
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/e4/e4146c7fc86bdd7c1541e5ab66ba364990dfe355.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\2f\2f8d497c01c12a2c58d01356c19c11011da92f30.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\2f\2f8d497c01c12a2c58d01356c19c11011da92f30.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/2f/2f8d497c01c12a2c58d01356c19c11011da92f30.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c2\c224fbabc6a8c18171034aa13d3cb99f9af5b60d.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\c2\c224fbabc6a8c18171034aa13d3cb99f9af5b60d.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/c2/c224fbabc6a8c18171034aa13d3cb99f9af5b60d.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\34\344ad5a8915b557ccffc910dc42f3b682e4d12a1.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\34\344ad5a8915b557ccffc910dc42f3b682e4d12a1.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\70\70fbe778a89dbe7e8aebfa3dbd84b9e834190bcd.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\70\70fbe778a89dbe7e8aebfa3dbd84b9e834190bcd.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/70/70fbe778a89dbe7e8aebfa3dbd84b9e834190bcd.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register TestGameRunner
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/34/344ad5a8915b557ccffc910dc42f3b682e4d12a1.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\d5\d52bdf57dbfb3fd4d0938c0c7aae6679f50620e4.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\d5\d52bdf57dbfb3fd4d0938c0c7aae6679f50620e4.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/d5/d52bdf57dbfb3fd4d0938c0c7aae6679f50620e4.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register AnimatedEnemy
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8a\8a8f19af8d87eaec90b6f8602583ea3a0ca6e7a8.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\8a\8a8f19af8d87eaec90b6f8602583ea3a0ca6e7a8.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register BossEnemy
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/8a/8a8f19af8d87eaec90b6f8602583ea3a0ca6e7a8.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\be\bebcee9838178a923b2d5eabb5d82e36a5b52cc8.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\be\bebcee9838178a923b2d5eabb5d82e36a5b52cc8.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/be/bebcee9838178a923b2d5eabb5d82e36a5b52cc8.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register EnemyDeathEffect
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\46\466ab27816943437a2e7ef3a1279bb01ac807d0c.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\46\466ab27816943437a2e7ef3a1279bb01ac807d0c.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/46/466ab27816943437a2e7ef3a1279bb01ac807d0c.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b3\b383cb1feb8a40bd1ddd93d974a0daf5790c0053.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\b3\b383cb1feb8a40bd1ddd93d974a0daf5790c0053.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\6c\6cc3c4dd74b3e1fded95ec33ad2f462f1c80c2ac.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\6c\6cc3c4dd74b3e1fded95ec33ad2f462f1c80c2ac.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/6c/6cc3c4dd74b3e1fded95ec33ad2f462f1c80c2ac.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register Menu
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/b3/b383cb1feb8a40bd1ddd93d974a0daf5790c0053.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\84\848b4db07bcea792a9056859571cebeb5c096fe4.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\84\848b4db07bcea792a9056859571cebeb5c096fe4.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register AudioSettingsModalWindow
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/84/848b4db07bcea792a9056859571cebeb5c096fe4.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\06\06a9e1fa8a268df62decd559f399fc35f8109646.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\06\06a9e1fa8a268df62decd559f399fc35f8109646.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register UpgradeLevelPointUI
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/06/06a9e1fa8a268df62decd559f399fc35f8109646.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\a9\a90c6f545a9825a1bb74fac31f4991c53e981c24.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\a9\a90c6f545a9825a1bb74fac31f4991c53e981c24.js is not in module cache!
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\22\22468ed6ce295be0bef0a3d3c1e291257db4d6df.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\22\22468ed6ce295be0bef0a3d3c1e291257db4d6df.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/22/22468ed6ce295be0bef0a3d3c1e291257db4d6df.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Register UpgradeUI
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/a9/a90c6f545a9825a1bb74fac31f4991c53e981c24.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\40\4007d0d8cf5d19bddf3bc3812cecc3a07409eb2e.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\40\4007d0d8cf5d19bddf3bc3812cecc3a07409eb2e.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register UpgradesModalWindow
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/40/4007d0d8cf5d19bddf3bc3812cecc3a07409eb2e.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\db\dbab090bc08e4d0ddaf11b54b34df6811414da57.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\db\dbab090bc08e4d0ddaf11b54b34df6811414da57.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/db/dbab090bc08e4d0ddaf11b54b34df6811414da57.js" loaded.
+2023-11-21 18:02:58-debug: C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\70\700c9b1ab0b66d2a4070c852fc29cb5ce1760fd1.js resolved to C:\project\work\cocos\clashmonsters\temp\programming\packer-driver\targets\editor\chunks\70\700c9b1ab0b66d2a4070c852fc29cb5ce1760fd1.js is not in module cache!
+2023-11-21 18:02:58-debug: [[Executor]] Register UIButtonAudioPlayer
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/70/700c9b1ab0b66d2a4070c852fc29cb5ce1760fd1.js" loaded.
+2023-11-21 18:02:58-debug: [[Executor]] Module "pack:///chunks/82/825cdedc7a82dc310cb8b0e11ac5cf0fd1d6e9fe.js" loaded.
+2023-11-21 18:02:58-debug: native:(onAfterBundleInit) start...13%
+2023-11-21 18:02:58-debug: // ---- build task native：onAfterBundleInit ----
+2023-11-21 18:02:58-debug: // ---- build task native：onAfterBundleInit ---- (18ms)
+2023-11-21 18:02:58-debug: native:(onAfterBundleInit) in 18 ms ✓13%
+2023-11-21 18:02:58-debug: android:(onAfterBundleInit) start...13%
+2023-11-21 18:02:58-debug: // ---- build task android：onAfterBundleInit ----
+2023-11-21 18:02:58-debug: // ---- build task android：onAfterBundleInit ---- (12ms)
+2023-11-21 18:02:58-debug: // ---- build task 查询 Asset Bundle ----
+2023-11-21 18:02:58-debug: android:(onAfterBundleInit) in 12 ms ✓13%
+2023-11-21 18:02:58-debug: 查询 Asset Bundle start13%
+2023-11-21 18:02:58-debug: Init bundle root assets start...13%
+2023-11-21 18:02:58-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2023-11-21 18:02:58-debug: Init bundle root assets success...13%
+2023-11-21 18:02:58-debug: Init bundle share assets start...13%
+2023-11-21 18:02:58-warn: The ParticleAsset used by component "cc.ParticleSystem2D" in prefab "ChestModalWindow" is missing. Detailed information:Node path: "ChestModalWindow/Animated/Particle2D"Asset url: "db://assets/Media/Prefabs/ModalWindows/Chest/ChestModalWindow"Missing uuid: "915be298-1e14-40a2-aaaf-5f19c174fdf6"
+2023-11-21 18:02:58-debug: Init bundle share assets success...13%
+2023-11-21 18:02:58-debug: handle json group in bundle internal success
+2023-11-21 18:02:58-debug: init image compress task 0 in bundle internal
+2023-11-21 18:02:58-debug: handle json group in bundle internal
+2023-11-21 18:02:58-debug: handle json group in bundle main success
+2023-11-21 18:02:58-debug: init image compress task 0 in bundle main
+2023-11-21 18:02:58-debug: handle json group in bundle main
+2023-11-21 18:02:58-debug: // ---- build task 查询 Asset Bundle ---- (118ms)
+2023-11-21 18:02:58-debug: run build task 查询 Asset Bundle success in 118 ms √18%
+2023-11-21 18:02:58-debug: [Build Memory track]: 查询 Asset Bundle start:239.74MB, end 239.44MB, increase: -312.07KB
+2023-11-21 18:02:58-debug: 查询 Asset Bundle start18%
+2023-11-21 18:02:58-debug: // ---- build task 查询 Asset Bundle ----
+2023-11-21 18:02:58-debug: // ---- build task 查询 Asset Bundle ---- (14ms)
+2023-11-21 18:02:58-debug: run build task 查询 Asset Bundle success in 14 ms √23%
+2023-11-21 18:02:58-debug: [Build Memory track]: 查询 Asset Bundle start:239.46MB, end 239.54MB, increase: 75.12KB
+2023-11-21 18:02:58-debug: native:(onAfterBundleDataTask) start...23%
+2023-11-21 18:02:58-debug: // ---- build task native：onAfterBundleDataTask ----
+2023-11-21 18:02:58-debug: // ---- build task native：onAfterBundleDataTask ---- (15ms)
+2023-11-21 18:02:58-debug: native:(onAfterBundleDataTask) in 15 ms ✓23%
+2023-11-21 18:02:58-debug: 打包脚本 start23%
+2023-11-21 18:02:58-debug: // ---- build task 打包脚本 ----
+2023-11-21 18:02:58-debug: Caught exception during build core-js: WebpackOptionsValidationError: Invalid configuration object. Webpack has been initialised using a configuration object that does not match the API schema. - configuration.entry should be an non-empty array.   -> A non-empty array of non-empty stringsThis may indicates the core-js polyfill is not necessary. See https://github.com/zloirock/core-js/issues/822
+2023-11-21 18:03:02-debug: Build script in bundle start23%
+2023-11-21 18:03:02-log: Run build task(build-script) in child, see: chrome://inspect/#devices
+2023-11-21 18:03:03-log: [build-script]enter sub process 22820, C:\myprogram\cocos\Creator\3.8.0\CocosCreator.exe,C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\builtin\builder\static\sub-process-index
+2023-11-21 18:03:08-warn: [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Game.ts -> file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/ModalWIndows/GameModalLauncher.ts -> file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Game.ts
+2023-11-21 18:03:12-debug: excute-script over with build-script 9977ms
+2023-11-21 18:03:12-debug: Copy externalScripts success!
+2023-11-21 18:03:12-debug: Build script in bundle success23%
+2023-11-21 18:03:12-debug: Engine cache ({link(C:\Users\24598\AppData\Local\Temp\CocosCreator\3.8.0\builder\engine\2bf1fb73051fa4131e415e098abdde0c)}) does not exist.
+2023-11-21 18:03:12-log: Run build task(build-engine) in child, see: chrome://inspect/#devices
+2023-11-21 18:03:13-log: [build-engine]enter sub process 14208, C:\myprogram\cocos\Creator\3.8.0\CocosCreator.exe,C:\myprogram\cocos\Creator\3.8.0\resources\app.asar\builtin\builder\static\sub-process-index
+2023-11-21 18:03:15-log: [build-engine]Module source "internal-constants":function tryDefineGlobal (name, value) {    const _global = typeof window === 'undefined' ? global : window;    if (typeof _global[name] === 'undefined') {        return (_global[name] = value);    } else {        // eslint-disable-next-line @typescript-eslint/no-unsafe-return        return _global[name];    }}export const HTML5 = false;export const NATIVE = true;export const ANDROID = true;export const IOS = false;export const MAC = false;export const WINDOWS = false;export const LINUX = false;export const OHOS = false;export const OPEN_HARMONY = false;export const WECHAT = false;tryDefineGlobal('CC_WECHAT', false);export const WECHAT_MINI_PROGRAM = false;export const BAIDU = false;tryDefineGlobal('CC_BAIDU', false);export const XIAOMI = false;tryDefineGlobal('CC_XIAOMI', false);export const ALIPAY = false;tryDefineGlobal('CC_ALIPAY', false);export const TAOBAO = false;export const TAOBAO_MINIGAME = false;export const BYTEDANCE = false;tryDefineGlobal('CC_BYTEDANCE', false);export const OPPO = false;tryDefineGlobal('CC_OPPO', false);export const VIVO = false;tryDefineGlobal('CC_VIVO', false);export const HUAWEI = false;tryDefineGlobal('CC_HUAWEI', false);export const COCOSPLAY = false;tryDefineGlobal('CC_COCOSPLAY', false);export const QTT = false;tryDefineGlobal('CC_QTT', false);export const LINKSURE = false;tryDefineGlobal('CC_LINKSURE', false);export const EDITOR = false;tryDefineGlobal('CC_EDITOR', false);export const EDITOR_NOT_IN_PREVIEW = false;export const PREVIEW = false;tryDefineGlobal('CC_PREVIEW', false);export const BUILD = true;tryDefineGlobal('CC_BUILD', true);export const TEST = false;tryDefineGlobal('CC_TEST', false);export const DEBUG = false;tryDefineGlobal('CC_DEBUG', false);export const SERVER_MODE = false;export const DEV = false;tryDefineGlobal('CC_DEV', false);export const MINIGAME = false;tryDefineGlobal('CC_MINIGAME', false);export const RUNTIME_BASED = false;tryDefineGlobal('CC_RUNTIME_BASED', false);export const SUPPORT_JIT = true;tryDefineGlobal('CC_SUPPORT_JIT', true);export const JSB = true;tryDefineGlobal('CC_JSB', true);export const NOT_PACK_PHYSX_LIBS = false;export const NET_MODE = 0;export const WEBGPU = false;export const WASM_SUPPORT_MODE = 1;export const FORCE_BANNING_BULLET_WASM = false;export const CULL_ASM_JS_MODULE = false;export const WASM_FALLBACK = false;export const WASM_SUBPACKAGE = false;
+2023-11-21 18:03:16-log: [build-engine]Module source "cc":export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\2d.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\sorting.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\animation.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\audio.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\base.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\dragon-bones.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\gfx-webgl.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\gfx-webgl2.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\intersection-2d.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\light-probe.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\particle-2d.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\physics-2d-builtin.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\physics-2d-framework.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\profiler.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\skeletal-animation.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\spine.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\tiled-map.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\tween.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\ui.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\video.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\webview.ts';export * from 'C:\\myprogram\\cocos\\Creator\\3.8.0\\resources\\resources\\3d\\engine\\exports\\xr.ts';
+2023-11-21 18:03:16-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\root.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\root.jsb.ts
+2023-11-21 18:03:16-log: [build-engine]Redirect module internal:native to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\native-binding\impl.ts
+2023-11-21 18:03:16-log: [build-engine]Redirect module pal/system-info to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\system-info\native\system-info.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gfx\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gfx\index.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\rendering\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\rendering\index.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\index.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\dragon-bones\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\dragon-bones\index.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\spine\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\spine\index.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\node.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\node.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\index.jsb.ts
+2023-11-21 18:03:17-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\material.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\material.jsb.ts
+2023-11-21 18:03:19-log: [build-engine]Redirect module pal/input to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\input\native\index.ts
+2023-11-21 18:03:19-log: [build-engine]Redirect module pal/env to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\env\native\env.ts
+2023-11-21 18:03:19-log: [build-engine]Redirect module pal/pacer to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\pacer\pacer-native.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\pass.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\pass.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\program-lib.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\program-lib.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\material-instance.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\material-instance.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\render-scene.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\render-scene.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module pal/screen-adapter to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\screen-adapter\native\screen-adapter.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module pal/minigame to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\minigame\non-minigame.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module pal/audio to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\audio\native\player.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\asset-manager\builtin-res-mgr.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\asset-manager\builtin-res-mgr.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gi\light-probe\delaunay.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gi\light-probe\delaunay.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gi\light-probe\light-probe.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gi\light-probe\light-probe.jsb.ts
+2023-11-21 18:03:20-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\index.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\index.jsb.ts
+2023-11-21 18:03:21-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\assets\mesh.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\assets\mesh.jsb.ts
+2023-11-21 18:03:21-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\models\morph-model.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\models\morph-model.jsb.ts
+2023-11-21 18:03:21-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\scene.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\scene.jsb.ts
+2023-11-21 18:03:21-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\scene-globals.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\scene-graph\scene-globals.jsb.ts
+2023-11-21 18:03:21-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gfx\base\pipeline-state.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\gfx\base\pipeline-state.jsb.ts
+2023-11-21 18:03:22-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\render-texture.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\render-texture.jsb.ts
+2023-11-21 18:03:22-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\scene-asset.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\scene-asset.jsb.ts
+2023-11-21 18:03:22-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\camera.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\camera.jsb.ts
+2023-11-21 18:03:22-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\submodel.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\submodel.jsb.ts
+2023-11-21 18:03:22-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\texture-2d.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\texture-2d.jsb.ts
+2023-11-21 18:03:23-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\asset.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\asset.jsb.ts
+2023-11-21 18:03:23-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\image-asset.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\image-asset.jsb.ts
+2023-11-21 18:03:23-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\2d\renderer\native-2d.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\2d\renderer\native-2d.jsb.ts
+2023-11-21 18:03:23-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\native-pools.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\core\native-pools.jsb.ts
+2023-11-21 18:03:24-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\misc\create-mesh.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\misc\create-mesh.jsb.ts
+2023-11-21 18:03:24-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\buffer-asset.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\buffer-asset.jsb.ts
+2023-11-21 18:03:24-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\rendering-sub-mesh.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\rendering-sub-mesh.jsb.ts
+2023-11-21 18:03:24-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\texture-cube.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\texture-cube.jsb.ts
+2023-11-21 18:03:24-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\effect-asset.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\effect-asset.jsb.ts
+2023-11-21 18:03:24-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\texture-base.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\texture-base.jsb.ts
+2023-11-21 18:03:25-log: [build-engine]Redirect module pal/wasm to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\pal\wasm\wasm-native.ts
+2023-11-21 18:03:26-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\animation\marionette\pose-graph\runtime-exports.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\animation\marionette\pose-graph\runtime-exports-empty.ts
+2023-11-21 18:03:26-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\reflection-probe.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\reflection-probe.jsb.ts
+2023-11-21 18:03:26-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\model.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\render-scene\scene\model.jsb.ts
+2023-11-21 18:03:28-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\node_modules\@cocos\dragonbones-js\out\dragonBones.js
+2023-11-21 18:03:28-log: [build-engine]Rollup warning 'THIS_IS_UNDEFINED' is omitted for C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\node_modules\@cocos\dragonbones-js\out\dragonBones.js
+2023-11-21 18:03:28-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\simple-texture.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\asset\assets\simple-texture.jsb.ts
+2023-11-21 18:03:28-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\assets\skeleton.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\assets\skeleton.jsb.ts
+2023-11-21 18:03:28-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\models\skinning-model.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\models\skinning-model.jsb.ts
+2023-11-21 18:03:28-log: [build-engine]Redirect module C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\models\baked-skinning-model.ts to C:\myprogram\cocos\Creator\3.8.0\resources\resources\3d\engine\cocos\3d\models\baked-skinning-model.jsb.ts
+2023-11-21 18:03:31-log: [build-engine]==== Performance ===={"# BUILD":[15454.742300000042,546515216,645897408],"## generate module graph":[13651.161399999633,484496992,583884604],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId":[22.223799985833466,-895480,585930896],"- plugin 0 (@cocos/ccbuild|external-loader) - resolveId (async)":[29.307999935001135,5210752,585931716],"- plugin 1 (@cocos/ccbuild|module-overrides) - resolveId":[7.647999967448413,671748,585933072],"- plugin 2 (virtual) - resolveId":[23.60959999728948,4741592,585937680],"load modules":[42804.559299997985,1546215820,585107340],"- plugin 0 (@cocos/ccbuild|external-loader) - load":[7.915199990384281,996248,583437472],"- plugin 0 (@cocos/ccbuild|external-loader) - load (async)":[22.53700000885874,-120888,583437960],"- plugin 1 (@cocos/ccbuild|module-overrides) - load":[10.335800030268729,550544,583438700],"- plugin 2 (virtual) - load":[1.8258000053465366,99880,583439096],"- plugin 5 (json) - transform":[4.044199990108609,717448,585111056],"- plugin 6 (commonjs) - transform":[128.40709999669343,8629152,585114300],"- plugin 7 (babel) - transform":[222.39169999863952,10405416,585148148],"generate ast":[682.779200005345,2875576,585837464],"analyse ast":[941.0205000080168,146891632,585918572],"- plugin 3 (ts-paths) - resolveId":[4.465300000272691,479284,585938504],"- plugin 4 (node-resolve) - resolveId":[38.85379997640848,8830260,585945588],"- plugin 4 (node-resolve) - resolveId (async)":[32991.94909998402,1078131576,587890888],"- plugin 4 (node-resolve) - load":[1.5991999991238117,104488,583439500],"- plugin 6 (commonjs) - load":[6.514700008556247,887936,583440976],"- plugin 7 (babel) - load":[282.99609999358654,12334596,583441372],"- plugin 7 (babel) - transform (async)":[9358.79809998162,315220688,585809700],"- plugin 6 (commonjs) - resolveId":[1.846400000154972,57036,585208252],"- plugin 7 (babel) - resolveId":[0.9147999929264188,43436,585208656],"## sort modules":[165.07210000045598,6531164,590416076],"## mark included statements":[1638.3769999993965,55479468,645895788],"treeshaking pass 1":[546.3854000000283,27680180,618487980],"treeshaking pass 2":[425.94959999993443,17012824,635501048],"treeshaking pass 3":[193.52920000068843,2891896,638393188],"treeshaking pass 4":[135.99360000062734,4988008,643381440],"treeshaking pass 5":[87.04389999993145,-119420,643262264],"treeshaking pass 6":[67.78839999996126,-839124,642423384],"treeshaking pass 7":[58.879900000058115,4563108,646986736],"treeshaking pass 8":[61.5,-4446696,642540284],"treeshaking pass 9":[60.186599999666214,3354888,645895416]}====             ====
+2023-11-21 18:03:46-debug: excute-script over with build-engine 33972ms
+2023-11-21 18:03:46-debug: // ---- build task 打包脚本 ---- (47996ms)
+2023-11-21 18:03:46-debug: run build task 打包脚本 success in 47996 ms √28%
+2023-11-21 18:03:46-debug: [Build Memory track]: 打包脚本 start:239.72MB, end 292.78MB, increase: 53.06MB
+2023-11-21 18:03:46-debug: Build Assets start28%
+2023-11-21 18:03:46-debug: // ---- build task Build Assets ----
+2023-11-21 18:03:46-debug: Pack Images start28%
+2023-11-21 18:03:46-debug: Start trim sprite image ...
+2023-11-21 18:03:47-debug: determine atlas size...
+2023-11-21 18:03:47-debug: Start generate atlas image...
+2023-11-21 18:03:48-debug: builder:pack-auto-atlas-image (2606ms)
+2023-11-21 18:03:48-debug: Compress image start...28%
+2023-11-21 18:03:48-debug: Pack Images success28%
+2023-11-21 18:03:48-debug: Num of image compress task 0
+2023-11-21 18:03:48-debug: No image need to compress
+2023-11-21 18:03:48-debug: Compress image success...28%
+2023-11-21 18:03:48-debug: Ouput asset in bundles start28%
+2023-11-21 18:03:48-debug: Handle all json groups in bundle internal
+2023-11-21 18:03:48-debug: handle json group
+2023-11-21 18:03:48-debug: Handle all json groups in bundle main
+2023-11-21 18:03:48-debug: handle json group
+2023-11-21 18:03:48-debug: Json group(0f403893f) compile success，json number: 6
+2023-11-21 18:03:49-debug: Json group(04103f80d) compile success，json number: 6
+2023-11-21 18:03:49-debug: Json group(0ca60d3e4) compile success，json number: 6
+2023-11-21 18:03:49-debug: handle single json
+2023-11-21 18:03:49-debug: Json group(0ababacd0) compile success，json number: 6
+2023-11-21 18:03:49-warn: The ParticleAsset used by component "cc.ParticleSystem2D" in prefab "ChestModalWindow" is missing. Detailed information:Node path: "ChestModalWindow/Animated/Particle2D"Asset url: "db://assets/Media/Prefabs/ModalWindows/Chest/ChestModalWindow"Missing uuid: "915be298-1e14-40a2-aaaf-5f19c174fdf6"
+2023-11-21 18:03:49-debug: Json group(092bdaae8) compile success，json number: 6
+2023-11-21 18:03:49-debug: Json group(02a3cd7dd) compile success，json number: 6
+2023-11-21 18:03:49-debug: Json group(028cf8ca4) compile success，json number: 6
+2023-11-21 18:03:49-debug: Json group(0928a7c5f) compile success，json number: 6
+2023-11-21 18:03:49-debug: handle single json
+2023-11-21 18:03:49-debug: Output asset in bundles success28%
+2023-11-21 18:03:49-debug: // ---- build task Build Assets ---- (2971ms)
+2023-11-21 18:03:49-debug: run build task Build Assets success in 2971 ms √33%
+2023-11-21 18:03:49-debug: [Build Memory track]: Build Assets start:292.80MB, end 302.76MB, increase: 9.96MB
+2023-11-21 18:03:49-debug: 给所有的资源加上 MD5 后缀 start33%
+2023-11-21 18:03:49-debug: // ---- build task 给所有的资源加上 MD5 后缀 ----
+2023-11-21 18:03:49-debug: add suffix to assets(0) success!
+2023-11-21 18:03:49-debug: // ---- build task 给所有的资源加上 MD5 后缀 ---- (39ms)
+2023-11-21 18:03:49-debug: run build task 给所有的资源加上 MD5 后缀 success in 39 ms √38%
+2023-11-21 18:03:49-debug: [Build Memory track]: 给所有的资源加上 MD5 后缀 start:302.84MB, end 302.94MB, increase: 107.72KB
+2023-11-21 18:03:49-debug: 查询 Asset Bundle start38%
+2023-11-21 18:03:49-debug: // ---- build task 查询 Asset Bundle ----
+2023-11-21 18:03:49-debug: Output asset in bundles start38%
+2023-11-21 18:03:49-debug: add md5 to bundle internal...
+2023-11-21 18:03:49-debug: add md5 to bundle main...
+2023-11-21 18:03:49-debug: add md5 to bundle internal success
+2023-11-21 18:03:49-debug: compress config of bundle internal...
+2023-11-21 18:03:49-debug: compress config of bundle internal success
+2023-11-21 18:03:49-debug: ouput config of bundle internal
+2023-11-21 18:03:49-debug: output config of bundle internal success
+2023-11-21 18:03:49-debug: add md5 to bundle main success
+2023-11-21 18:03:49-debug: compress config of bundle main...
+2023-11-21 18:03:49-debug: output config of bundle main success
+2023-11-21 18:03:49-debug: compress config of bundle main success
+2023-11-21 18:03:49-debug: ouput config of bundle main
+2023-11-21 18:03:49-debug: Output asset in bundles success38%
+2023-11-21 18:03:49-debug: // ---- build task 查询 Asset Bundle ---- (296ms)
+2023-11-21 18:03:49-debug: run build task 查询 Asset Bundle success in 296 ms √43%
+2023-11-21 18:03:49-debug: [Build Memory track]: 查询 Asset Bundle start:302.97MB, end 299.93MB, increase: -3115.56KB
+2023-11-21 18:03:49-debug: 整理部分构建选项内数据到 settings.json start43%
+2023-11-21 18:03:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-11-21 18:03:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (12ms)
+2023-11-21 18:03:49-debug: run build task 整理部分构建选项内数据到 settings.json success in 12 ms √45%
+2023-11-21 18:03:49-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:299.95MB, end 300.01MB, increase: 62.28KB
+2023-11-21 18:03:49-debug: 填充脚本数据到 settings.json start45%
+2023-11-21 18:03:49-debug: // ---- build task 填充脚本数据到 settings.json ----
+2023-11-21 18:03:49-debug: run build task 填充脚本数据到 settings.json success in 12 ms √47%
+2023-11-21 18:03:49-debug: [Build Memory track]: 填充脚本数据到 settings.json start:300.04MB, end 300.10MB, increase: 63.69KB
+2023-11-21 18:03:49-debug: 整理部分构建选项内数据到 settings.json start47%
+2023-11-21 18:03:49-debug: // ---- build task 填充脚本数据到 settings.json ---- (12ms)
+2023-11-21 18:03:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2023-11-21 18:03:49-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (142ms)
+2023-11-21 18:03:49-debug: run build task 整理部分构建选项内数据到 settings.json success in 142 ms √48%
+2023-11-21 18:03:49-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:300.12MB, end 300.25MB, increase: 126.58KB
+2023-11-21 18:03:49-debug: cocos-service:(onBeforeCompressSettings) start...48%
+2023-11-21 18:03:49-debug: // ---- build task cocos-service：onBeforeCompressSettings ----
+2023-11-21 18:03:49-debug: // ---- build task cocos-service：onBeforeCompressSettings ---- (136ms)
+2023-11-21 18:03:49-debug: cocos-service:(onBeforeCompressSettings) in 136 ms ✓51%
+2023-11-21 18:03:49-debug: 保存 settings.json start51%
+2023-11-21 18:03:49-debug: // ---- build task 保存 settings.json ----
+2023-11-21 18:03:49-debug: // ---- build task 保存 settings.json ---- (18ms)
+2023-11-21 18:03:49-debug: run build task 保存 settings.json success in 18 ms √53%
+2023-11-21 18:03:49-debug: [Build Memory track]: 保存 settings.json start:300.39MB, end 300.66MB, increase: 281.18KB
+2023-11-21 18:03:49-debug: 整理静态模板文件 start53%
+2023-11-21 18:03:49-debug: // ---- build task 整理静态模板文件 ----
+2023-11-21 18:03:50-debug: // ---- build task 整理静态模板文件 ---- (78ms)
+2023-11-21 18:03:50-debug: run build task 整理静态模板文件 success in 78 ms √56%
+2023-11-21 18:03:50-debug: [Build Memory track]: 整理静态模板文件 start:300.69MB, end 303.94MB, increase: 3.25MB
+2023-11-21 18:03:50-debug: native:(onAfterCompressSettings) start...56%
+2023-11-21 18:03:50-debug: // ---- build task native：onAfterCompressSettings ----
+2023-11-21 18:03:50-log: Checking template version...
+2023-11-21 18:03:50-log: Validating template consistency...
+2023-11-21 18:03:50-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME \"clashofmonsters\")","COCOS_X_PATH":"set(COCOS_X_PATH \"C:/myprogram/cocos/Creator/3.8.0/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_FLOAT_OUTPUT":"set(ENABLE_FLOAT_OUTPUT OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET ON)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-11-21 18:03:50-log: While replace template content, file C:\project\work\cocos\clashmonsters\build\android\proj\main.cpp
+2023-11-21 18:03:50-log: While replace template content, file C:\project\work\cocos\clashmonsters\build\android\proj\main.m
+2023-11-21 18:03:50-log: While replace template content, file C:\project\work\cocos\clashmonsters\native\engine\android/entry/src/main/config.json
+2023-11-21 18:03:50-debug: Start encrypte scripts...
+2023-11-21 18:03:50-debug: generateCMakeConfig, {"CC_USE_GLES3":"set(CC_USE_GLES3 ON)","CC_USE_GLES2":"set(CC_USE_GLES2 ON)","USE_SERVER_MODE":"set(USE_SERVER_MODE OFF)","NET_MODE":"set(NET_MODE 0)","XXTEAKEY":"set(XXTEAKEY \"0ceMjVPL1BwpMKmv\")","CC_ENABLE_SWAPPY":"set(CC_ENABLE_SWAPPY OFF)","APP_NAME":"set(APP_NAME \"clashofmonsters\")","COCOS_X_PATH":"set(COCOS_X_PATH \"C:/myprogram/cocos/Creator/3.8.0/resources/resources/3d/engine/native\")","USE_JOB_SYSTEM_TASKFLOW":"set(USE_JOB_SYSTEM_TASKFLOW OFF)","USE_JOB_SYSTEM_TBB":"set(USE_JOB_SYSTEM_TBB OFF)","ENABLE_FLOAT_OUTPUT":"set(ENABLE_FLOAT_OUTPUT OFF)","USE_PHYSICS_PHYSX":"set(USE_PHYSICS_PHYSX OFF)","USE_OCCLUSION_QUERY":"set(USE_OCCLUSION_QUERY OFF)","USE_GEOMETRY_RENDERER":"set(USE_GEOMETRY_RENDERER OFF)","USE_DEBUG_RENDERER":"set(USE_DEBUG_RENDERER OFF)","USE_AUDIO":"set(USE_AUDIO ON)","USE_VIDEO":"set(USE_VIDEO ON)","USE_WEBVIEW":"set(USE_WEBVIEW ON)","USE_SOCKET":"set(USE_SOCKET ON)","USE_WEBSOCKET_SERVER":"set(USE_WEBSOCKET_SERVER OFF)","USE_SPINE":"set(USE_SPINE ON)","USE_DRAGONBONES":"set(USE_DRAGONBONES ON)","CC_USE_VULKAN":"set(CC_USE_VULKAN OFF)"}
+2023-11-21 18:03:50-debug: Encrypte scriptes success
+2023-11-21 18:03:50-log: update settings.properties
+2023-11-21 18:03:50-log: AndroidAPI level 33
+2023-11-21 18:03:50-log: update gradle.properties
+2023-11-21 18:03:50-log: android instant not configured
+2023-11-21 18:03:50-debug: // ---- build task native：onAfterCompressSettings ---- (166ms)
+2023-11-21 18:03:50-debug: native:(onAfterCompressSettings) in 166 ms ✓58%
+2023-11-21 18:03:50-debug: cocos-service:(onAfterCompressSettings) start...58%
+2023-11-21 18:03:50-debug: // ---- build task cocos-service：onAfterCompressSettings ----
+2023-11-21 18:03:50-debug: // ---- build task cocos-service：onAfterCompressSettings ---- (150ms)
+2023-11-21 18:03:50-debug: // ---- build task native：onAfterBuild ----
+2023-11-21 18:03:50-debug: cocos-service:(onAfterCompressSettings) in 150 ms ✓60%
+2023-11-21 18:03:50-debug: native:(onAfterBuild) start...60%
+2023-11-21 18:03:50-debug: // ---- build task native：onAfterBuild ---- (18ms)
+2023-11-21 18:03:50-debug: native:(onAfterBuild) in 18 ms ✓62%
+2023-11-21 18:03:50-debug: cocos-service:(onAfterBuild) start...62%
+2023-11-21 18:03:50-debug: // ---- build task cocos-service：onAfterBuild ----
+2023-11-21 18:03:50-debug: // ---- build task cocos-service：onAfterBuild ---- (134ms)
+2023-11-21 18:03:50-debug: cocos-service:(onAfterBuild) in 134 ms ✓64%
+2023-11-21 18:03:50-log: Asset DB is resume!
+2023-11-21 18:03:50-debug: builder:build-project-total (56466ms)
+2023-11-21 18:03:50-debug: [Build Memory track]: builder:build-project-total start:260.60MB, end 301.36MB, increase: 40.76MB
+2023-11-21 18:03:50-debug: build success in 56466 ms!
+2023-11-21 18:03:50-debug: ================================ build Task (android) Finished in (56576)ms ================================
+2023-11-21 18:03:50-debug: Stop record console. {file(C:\project\work\cocos\clashmonsters\temp\builder\log\android2023-11-21 18-02.log)}
+2023-11-21 18:03:50-warn: The ParticleAsset used by component "cc.ParticleSystem2D" in prefab "ChestModalWindow" is missing. Detailed information:Node path: "ChestModalWindow/Animated/Particle2D"Asset url: "db://assets/Media/Prefabs/ModalWindows/Chest/ChestModalWindow"Missing uuid: "915be298-1e14-40a2-aaaf-5f19c174fdf6"
+2023-11-21 18:15:48-debug: refresh db internal success
+2023-11-21 18:15:48-debug: refresh db assets success
+2023-11-21 18:15:48-debug: Run asset db hook engine-extends:afterRefresh ...
+2023-11-21 18:15:48-debug: Run asset db hook engine-extends:afterRefresh success!
+2023-11-21 18:15:48-debug: asset-db:refresh-all-database (137ms)
