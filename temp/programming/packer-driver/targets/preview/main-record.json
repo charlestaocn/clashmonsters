@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 13620.501799999736,
+      "mTimestamp": 18769.743299998343,
       "chunkId": "3252eae8c1de0f447dd5669ecfd4da3c2722823e",
       "imports": [
         {
@@ -472,7 +472,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 15148.265499999747,
+      "mTimestamp": 22590.7044999972,
       "chunkId": "2c91823a8dfd988c3f4d9c4913a6452a91815dee",
       "imports": [
         {
@@ -2843,7 +2843,7 @@
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1700561762769,
+      "mTimestamp": 1701755247114,
       "chunkId": "cceb4f795e6e637cc67c120b5b44ef3a584b486a",
       "imports": [],
       "type": "esm",
@@ -3113,10 +3113,10 @@
     },
     "file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Upgrades/UpgradeType.ts": {
       "mTimestamp": {
-        "mtime": 1700531416347.3127,
+        "mtime": 1701336868164.2744,
         "uuid": "a481c31c-b6ba-4871-b8d7-f151788a450a"
       },
-      "chunkId": "31ebc51dafeb9d128426424d932f00f34244e872",
+      "chunkId": "91ea1561e26ec4c673353df7c4e76eae2e76e1e3",
       "imports": [
         {
           "value": "cc"
@@ -3748,7 +3748,7 @@
     },
     "file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Background/Background.ts": {
       "mTimestamp": {
-        "mtime": 1700531416300.072,
+        "mtime": 1701325023251.631,
         "uuid": "26e60d05-0b7c-4d95-934e-8a11a559f01d"
       },
       "chunkId": "88febeb09ae065eec95da9e2b9b185444662a189",
@@ -7739,7 +7739,7 @@
     },
     "file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Unit/Player/Player.ts": {
       "mTimestamp": {
-        "mtime": 1700531416341.8027,
+        "mtime": 1701318458325.1885,
         "uuid": "b570abb8-1bcd-4ef0-85e8-4d783531001d"
       },
       "chunkId": "f430194d00bb82fd29a3fa68302254cb1f0bc492",
@@ -9310,10 +9310,10 @@
     },
     "file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/UI/LevelUpWindow/LevelUpSkill.ts": {
       "mTimestamp": {
-        "mtime": 1700531416326.1685,
+        "mtime": 1701336550720.2275,
         "uuid": "65e26889-bc4f-487d-8625-602fbced8eb1"
       },
-      "chunkId": "b9b3ec45bce4206444408a4446c280d89fea0a69",
+      "chunkId": "ec392b0b1eb370fa80424fcd8182e47f624bfa83",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -9365,6 +9365,20 @@
               "column": 61
             }
           }
+        },
+        {
+          "value": "../../Upgrades/UpgradeType",
+          "resolved": "__unresolved_3",
+          "loc": {
+            "start": {
+              "line": 6,
+              "column": 40
+            },
+            "end": {
+              "line": 6,
+              "column": 68
+            }
+          }
         }
       ],
       "type": "esm",
@@ -9408,6 +9422,13 @@
           "resolved": {
             "type": "module",
             "url": "file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Services/EventSystem/Signal.ts"
+          },
+          "messages": []
+        },
+        {
+          "resolved": {
+            "type": "module",
+            "url": "file:///C:/project/work/cocos/clashmonsters/assets/Scripts/Game/Upgrades/UpgradeType.ts"
           },
           "messages": []
         }

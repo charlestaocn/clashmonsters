@@ -5,7 +5,7 @@
       "buildPath": "project://build",
       "outputName": "android-001",
       "mainBundleCompressionType": "merge_dep",
-      "name": "clashofmonsters",
+      "name": "warriorandevilmonsters",
       "platform": "android",
       "md5Cache": true,
       "sourceMaps": true,
@@ -14,7 +14,7 @@
     },
     "options": {
       "android": {
-        "packageName": "com.cfg.cth",
+        "packageName": "com.cfg.waem",
         "orientation": {
           "portrait": true,
           "upsideDown": false,
@@ -26,8 +26,8 @@
           "arm64-v8a",
           "armeabi-v7a"
         ],
-        "useDebugKeystore": false,
-        "keystorePath": "C:\\project\\work\\cocos\\clashmonsters\\gameks.jks",
+        "useDebugKeystore": true,
+        "keystorePath": "",
         "keystorePassword": "taozenan",
         "keystoreAlias": "key0",
         "keystoreAliasPassword": "taozenan",
@@ -126,6 +126,38 @@
         ],
         "useDebugKeystore": false,
         "keystorePath": "C:\\project\\work\\cocos\\clashmonsters\\gameks.jks",
+        "keystorePassword": "taozenan",
+        "keystoreAlias": "key0",
+        "keystoreAliasPassword": "taozenan",
+        "appBundle": false,
+        "androidInstant": false,
+        "inputSDK": false,
+        "remoteUrl": "",
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "vulkan": false,
+          "gles3": true,
+          "gles2": true
+        },
+        "swappy": false,
+        "__version__": "1.0.1"
+      },
+      "1701340651897": {
+        "packageName": "com.cfg.waem",
+        "orientation": {
+          "portrait": true,
+          "upsideDown": false,
+          "landscapeRight": false,
+          "landscapeLeft": false
+        },
+        "apiLevel": 33,
+        "appABIs": [
+          "arm64-v8a",
+          "armeabi-v7a"
+        ],
+        "useDebugKeystore": true,
+        "keystorePath": "",
         "keystorePassword": "taozenan",
         "keystoreAlias": "key0",
         "keystoreAliasPassword": "taozenan",

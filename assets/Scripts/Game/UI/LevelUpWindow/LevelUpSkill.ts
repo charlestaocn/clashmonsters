@@ -3,7 +3,7 @@ import { AppRoot } from "../../../AppRoot/AppRoot";
 import { ISignal } from "../../../Services/EventSystem/ISignal";
 import { Signal } from "../../../Services/EventSystem/Signal";
 import { TranslationData } from "../../Data/TranslationData";
-import { UpgradeType } from "../../Upgrades/UpgradeType";
+import { UpgradeType,UpgradeDesc } from "../../Upgrades/UpgradeType";
 
 const { ccclass, property } = _decorator;
 
@@ -15,10 +15,13 @@ export class LevelUpSkill extends Component {
     private chooseSkillEvent: Signal<UpgradeType> = new Signal<UpgradeType>();
     private skillType: UpgradeType;
 
+
+
     public init(skillType: UpgradeType, translationData: TranslationData): void {
         this.skillType = skillType;
         this.skillTitle.string = `${translationData[`${skillType}_TITLE`]}`;
         this.skillIcon.spriteFrame = AppRoot.Instance.GameAssets.UpgradeIcons.getIcon(skillType);
+        this.skillDescription.string= UpgradeDesc.getDescByType(skillType);
         this.node.on(NodeEventType.TOUCH_START, this.chooseSkill, this);
     }
 
